@@ -1,0 +1,29 @@
+#header{
+  background-image:url(C:\Users\Aleena Prince\OneDrive\Desktop\TLE\my-app\src\images\img1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: auto;
+  left: px;
+  top: 0px;
+  border-radius: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  overflow: hidden;
+}
+.head{
+   text-align: center;
+   color: violet;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+   font-size: 10vh;
+   padding-top: 10vh;
+   
+}
+.date{
+   text-align: center;
+   font-size: 5vh;
+   color: antiquewhite;
+   border: 3px solid white;
+   
+}
