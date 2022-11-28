@@ -1,5 +1,5 @@
 # TRIALWEBSITE
 
-This is a trial website
-not yet completed
+This is a trial website.
+Not yet completed,
 working on it!!
